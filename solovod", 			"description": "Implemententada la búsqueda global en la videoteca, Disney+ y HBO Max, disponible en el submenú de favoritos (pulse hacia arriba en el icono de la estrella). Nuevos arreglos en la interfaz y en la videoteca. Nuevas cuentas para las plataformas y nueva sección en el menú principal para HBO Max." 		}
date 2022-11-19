@@ -1,0 +1,10 @@
+{
+	"builds": [
+		{
+			"name": "Solo VOD 19",
+			"version": "0.4",
+			"url": "https://archive.org/download/kodi-noviembre-202/kodi%20noviembre%20202.zip",
+			"icon": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.gif",
+			"fanart": "https://archive.org/download/xcpon_bitwhites_Icon/solovod19.png",
+			"description": "Implemententada la búsqueda global en la videoteca, Disney+ y HBO Max, disponible en el submenú de favoritos (pulse hacia arriba en el icono de la estrella). Nuevos arreglos en la interfaz y en la videoteca. Nuevas cuentas para las plataformas y nueva sección en el menú principal para HBO Max."
+		}
